@@ -1,4 +1,4 @@
-## Real-Time_Person_Detection_and_Tracking_using_YOLOv8
+## Real-Time_Person_Detection_and_Tracking
 This project uses OpenCV to connect to an RTSP video stream, process object tracks, and interactively select a bounding box with a mouse click. A timer is displayed for the selected bounding box, even if the detection is skipped for a few frames.
 
 ## Features
@@ -57,5 +57,5 @@ This project uses OpenCV to connect to an RTSP video stream, process object trac
 ![Screenshot (80)](https://github.com/MYahya3/Real-Time_Person_Detection_and_Tracking_using_YOLOv8/assets/88489038/49b39111-ee28-419e-b3f6-2aa219b2824c)
 
 
-For any questions or issues, please contact [engryahya28@gmail.com](arshadsohail092@gmail.com).
+For any questions or issues, please contact [arshadsohail092@gmail.com](arshadsohail092@gmail.com).
 
