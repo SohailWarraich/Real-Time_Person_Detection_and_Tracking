@@ -18,7 +18,7 @@ This project uses OpenCV to connect to an RTSP video stream, process object trac
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/MYahya3/Real-Time_Person_Detection_and_Tracking_using_YOLOv8.git
+    git clone git clone https://github.com/SohailWarraich/Real-Time_Person_Detection_and_Tracking.git
     cd Real-Time_Person_Detection_and_Tracking_using_YOLOv8
     ```
 
@@ -43,18 +43,18 @@ This project uses OpenCV to connect to an RTSP video stream, process object trac
 
 2. **Run the script**:
     ```bash
-    python main_script.py
+    python main.py
     ```
 
 ## File Structure
 
-- `main_script.py`: Main script to capture RTSP stream, process frames, and display the video.
+- `main.py`: Main script to capture RTSP stream, process frames, and display the video.
 - `utilis.py`: Contains the `TrackProcessor` class for handling track processing and timer functionality.
-- `README.md`: This file.
+- `README.md`: Documentation of the code.
 ### Visualize Input and Output Result
-![Screenshot (79)](https://github.com/MYahya3/Real-Time_Person_Detection_and_Tracking_using_YOLOv8/assets/88489038/5e2596a4-a69e-41a5-b871-8f2074c4f3fc)
+![frame1](https://github.com/SohailWarraich/Real-Time_Person_Detection_and_Tracking/blob/main/screenshort/frame1.png)
 
-![Screenshot (80)](https://github.com/MYahya3/Real-Time_Person_Detection_and_Tracking_using_YOLOv8/assets/88489038/49b39111-ee28-419e-b3f6-2aa219b2824c)
+![frame2](https://github.com/SohailWarraich/Real-Time_Person_Detection_and_Tracking/blob/main/screenshort/frame2.png)
 
 
 For any questions or issues, please contact [arshadsohail092@gmail.com](arshadsohail092@gmail.com).
